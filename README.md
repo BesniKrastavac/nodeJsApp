@@ -1,1 +1,2 @@
-# nodeJsApp
+### npm install
+### nodemon index
